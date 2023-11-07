@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Hello there! 👋 I'm Matheus Padilha Marques, a software developer currently working at Betha Sistemas. I am enthusiastic about open source projects and always on the lookout for exciting opportunities to contribute and collaborate.<br><br>- 💼 I work at Betha Sistemas<br>- 🌱 I'm looking into open source projects and love to contribute to the community<br>- 😄 He/Him
+Hello there! 👋 I'm Matheus Padilha Marques, a software developer currently working at Betha Sistemas. I am enthusiastic about open source projects and always on the lookout for exciting opportunities to contribute and collaborate.<br><br>- 💼 I work @ Betha Sistemas<br>- 🌱 I'm looking into open source projects and love to contribute to the community<br>- 😄 He/Him
 
 
 ### 🌐 Socials:
