@@ -13,6 +13,5 @@ Hello there! 👋 I'm Matheus Padilha Marques, a software developer currently wo
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mtspadda&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
-[![](https://visitcount.itsvg.in/api?id=mtspadda&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
