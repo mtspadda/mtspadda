@@ -1,23 +1,50 @@
+<p align="center">
+  <b>Hello there!</b>
+</p>
 
-#### Hello there! 
-👋 I'm Matheus Padilha Marques, a software developer currently working at Betha Sistemas. I am enthusiastic about open source projects and always on the lookout for exciting opportunities to contribute and collaborate.<br></br> he/him
+<p align="center">
+  👋 I'm Matheus Padilha Marques, you can call me <b>Pada</b>, everyone does :)
+</p>
 
-#### 🌐 Socials:
+<p align="center">
+  I'm a developer from Brazil @ Betha Sistemas, you can check my stack in the sections below this, also you check more about me if you want to! feel free to reach me out, invite me for a coffe, or a beer, or a surf session, or just a chat
+</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mtspadilha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paadilhaa) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mts_padda) 
+<p align="center">
+  <a href="https://instagram.com/mtspadilha"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://linkedin.com/in/paadilhaa"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://reddit.com/user/mts_padda"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit"></a>
+</p>
+
 ---
 
-#### 💻 Tech Stack:
+<h4 align="center">
+  💻 Tech Stack:
+</h4>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-----
+<p align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="Angular.js">
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+</p>
 
-#### 📊 GitHub Stats:
+---
 
-![](https://github-readme-stats.vercel.app/api?username=mtspadda&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mtspadda&theme=material-palenight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mtspadda&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<h4 align="center">
+  📊 GitHub Stats:
+</h4>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mtspadda&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtspadda&theme=material-palenight&hide_border=true" alt="GitHub Streak Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtspadda&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
+</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
