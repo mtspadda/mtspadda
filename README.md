@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  I'm a developer from Brazil @ Betha Sistemas, you can check my stack in the sections below this, also you check more about me if you want to! feel free to reach me out, invite me for a coffe, or a beer, or a surf session, or just a chat
+  I'm a fullstack developer from Brazil @ TOTVS, you can check my stack in the sections below this, also you check more about me if you want to! feel free to reach me out, invite me for a coffe, or a beer, or a surf session, or just a chat
 </p>
 
 <p align="center">
