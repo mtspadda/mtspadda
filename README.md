@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  I'm a fullstack developer from Brazil, living in Dublin, you can check my stack in the sections below this, also you check more about me if you want to! feel free to reach me out, invite me for a coffe, or a beer, or a surf session, or just a chat
+  I'm a developer from Brazil, living in Dublin, and you can check my stack in the sections below this. Feel free to reach me, invite me for a coffee, a pint, or just a chat
 </p>
 
 <p align="center">
@@ -18,10 +18,6 @@
 
 ---
 
-<h4 align="center">
-  💻 Tech Stack:
-</h4>
-
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
@@ -30,13 +26,10 @@
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB")
 </p>
 
 ---
-
-<h4 align="center">
-  📊 GitHub Stats:
-</h4>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtspadda&theme=material-palenight&hide_border=true" alt="GitHub Streak Stats">
