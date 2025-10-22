@@ -8,7 +8,6 @@
 
 <p align="center">
   I'm a developer from Brazil, living in Dublin, and you can check my stack in the sections below this. Feel free to reach me, invite me for a coffee, a pint, or just a chat
-  now I'm solving leetcodes, using js, cuz its easier to run than java lol 
 </p>
 
 <p align="center">
@@ -38,5 +37,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtspadda&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 </p>
 
+<p align="center">
+I'm solving leetcode, using js, cuz is easier to run than java lol. u can check my profile <a href="https://leetcode.com/u/user6081C/"> here </a> 
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
