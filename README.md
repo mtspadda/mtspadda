@@ -8,6 +8,7 @@
 
 <p align="center">
   I'm a developer from Brazil, living in Dublin, and you can check my stack in the sections below this. Feel free to reach me, invite me for a coffee, a pint, or just a chat
+  now I'm solving leetcodes, using js, cuz its easier to run than java lol 
 </p>
 
 <p align="center">
